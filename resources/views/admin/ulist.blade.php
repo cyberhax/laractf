@@ -12,16 +12,19 @@
         </div>
 
         <div class="panel-body">
-          <div class="container">
-            <div class="col-md-4 col-xs-12">
-                <div class="row">
-                    this is user list
-                </div>
-            </div>
-            <div class="col-md-8 col-xs-12">
-                
-            </div>
-          </div>
+          
+            <div class="col-lg-3 col-md-3"><!-- one user -->
+              <a href="#" class="thumbnail">
+                <h3>UTP, NEXXA</h3>
+                {{ Html::image('img/prof.png', 'This is you', array('class' => 'img-responsive')) }}
+                <p>UTP</p>
+                <p>email@email.com</p>
+                <p>Current point: </p>
+                <p>Status: </p>
+              </a>
+            </div><!-- . one user -->
+            
+          
             
         </div>
     </div>

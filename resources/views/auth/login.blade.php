@@ -5,7 +5,7 @@
     <div class="row">
         <div class="col-md-4 col-md-offset-4 col-xs-12">
             <div class="panel panel-primary">
-                <div class="panel-heading" style="font-family: 'Yatra One', cursive;">Login</div>
+                <div class="panel-heading" style="font-family: 'Yatra One', cursive;text-align: center;">Login</div>
                 <div class="panel-body">
                 
                     <br>
