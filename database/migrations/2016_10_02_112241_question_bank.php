@@ -10,6 +10,18 @@ class QuestionBank extends Migration
      *
      * @return void
      */
+
+
+
+
+/// this migration is Destroyed
+/// this migration is Destroyed
+/// this migration is Destroyed
+/// this migration is Destroyed
+/// this migration is Destroyed
+/// this migration is Destroyed
+/// this migration is Destroyed
+/// this migration is Destroyed
     public function up()
     {
         Schema::create('ques_bank', function (Blueprint $table) {
